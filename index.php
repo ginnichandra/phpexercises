@@ -1,0 +1,1 @@
+outside the php tag <?php echo "Message by PHP"; ?>
